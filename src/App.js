@@ -4,8 +4,8 @@ import RenderTest from "./component/RenderTest";
 function App() {
   return (
     <div className="App">
-      {/* <NumberBaseball /> */}
-      <RenderTest />
+      <NumberBaseball />
+      {/* <RenderTest /> */}
     </div>
   );
 }
